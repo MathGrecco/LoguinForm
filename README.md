@@ -3,4 +3,5 @@
 A new Login Form using only HTML and CSS.
 
 
-![LoginForm](https://github.com/MathGrecco/LoguinForm/assets/102771688/416a9a59-1261-4445-8868-8cbd3d2932b4)
+![login](https://github.com/MathGrecco/LoguinForm/assets/102771688/5d614ef6-2b5c-4b25-b041-1483c4239981)
+
